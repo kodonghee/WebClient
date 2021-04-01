@@ -10,9 +10,10 @@
 
 1. 스타일 태그 설정
 
-   <style>
+   ``<style>
        h1 {color: red}
-   </style>
+   </style>``
+
 
    * css 선택자 (selector) {css요소명: css값; css요소명2: css값2; css요소명3: css값3}
 
@@ -26,6 +27,6 @@
 
 3. 외부 css 파일에 스타일 설정
 
-| test.html<br /><head><br /><link rel="stylesheet" href="test.css"><br />....<br /><h1> 제목입니다 </h1> |
+| test.html<br />``<head>``<br />``<link rel="stylesheet" href="test.css">``<br />``....``<br />``<h1> 제목입니다 </h1>`` |
 | ------------------------------------------------------------ |
 | test.css<br />h1 {color: red}                                |
