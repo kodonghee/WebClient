@@ -71,9 +71,12 @@
 
 #### HTML5 기본 용어
 
-* 요소 
-  * html에 등장하는 모든 것
+* html5 = html태그 + css + javascript 모두 포함 표준 규격
 
+* 요소 
+  
+* html에 등장하는 모든 것
+  
 * 태그
 
   * 요소를 표현하는 기능을 가지고 있는 것
@@ -99,9 +102,21 @@
   ```
 
 * 주석
+  
   * ``<! -- 주석 -->``
 * 페이지 소스 보기 
+  
   * 페이지를 만든 코드를 볼 수 있음
+
+| 글자표현     | h1 - h6<br />p br hr                   |
+| ------------ | -------------------------------------- |
+| 링크         | a                                      |
+| 목록         | ul ol li                               |
+| 표           | table tr th td                         |
+| 화면영역표시 | div span                               |
+| 시맨틱       | header nav section article footer      |
+| 입력 양식    | form<br />input textarea select option |
+| 멀티미디어   | img audio video                        |
 
 
 
@@ -122,8 +137,3 @@
 * colspan / rowspan
   * column 늘리기 / row 늘리기
 * caption - table 제목 설정
-
-
-
-
-
